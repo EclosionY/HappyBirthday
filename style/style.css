@@ -18,7 +18,7 @@ body {
 }
 
 .container div.six {
-  top: 10vh;
+  top: 20vh;
   z-index: 1;
 }
 
@@ -281,8 +281,9 @@ body {
   }
 
   .six .hat {
-    width: 50px;
-    top: -20px;
+    width: 120px;
+    left: 100px;
+    top: -162px;
   }
 
   .wish-hbd {
